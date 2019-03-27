@@ -15,6 +15,7 @@ http://java2novice.com/java-collections-and-util/
 
 Selenium Class GIT Repo
 https://github.com/ravilella1234/Durgsoft_6_30PM.git
+https://seleniumhq.github.io/selenium/docs/api/java/
 
 Notes:-
 25/02/2019 6:43 PM
